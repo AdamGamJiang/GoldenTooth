@@ -1,4 +1,4 @@
-package com.gan.goldentooth.goldentooth.ui;
+package com.gan.goldentooth.goldentooth.ui.activity;
 
 import android.graphics.Color;
 import android.os.Bundle;
