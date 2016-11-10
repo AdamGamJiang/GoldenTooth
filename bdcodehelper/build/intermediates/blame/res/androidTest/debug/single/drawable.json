@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary_stroke.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary_stroke.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary_stroke2solid_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary_stroke2solid_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\oval_primary_solid.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\oval_primary_solid.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\oval_primary_solid.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\oval_primary_solid.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary_dark.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary_dark.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_primarydark_indicator_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_primarydark_indicator_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_gray2dark_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_gray2dark_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_tran2gray_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_tran2gray_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_gray2dark_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_gray2dark_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cirrect_primary_stroke.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\cirrect_primary_stroke.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_primary_stroke2solid_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_primary_stroke2solid_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_tran2gray_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_tran2gray_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_white_solid.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_white_solid.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_red_solid.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_red_solid.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_bottom_line.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_bottom_line.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_primary2white_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_primary2white_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_white_solid.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_white_solid.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary_light.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cirrect_5a_primary_solid.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\cirrect_5a_primary_solid.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_white2gray_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_white2gray_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_primary_stroke.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_primary_stroke.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layerlist_primarydark_indicator.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\layerlist_primarydark_indicator.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\oval_primary_light_solid.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\oval_primary_light_solid.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_white2gray_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_white2gray_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layerlist_primarydark_indicator.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\layerlist_primarydark_indicator.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_gray_stroke.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_gray_stroke.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_primary2dark_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_primary2dark_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary_stroke2solid_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary_stroke2solid_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\oval_primary_light_solid.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\oval_primary_light_solid.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cirrect_10a_primary_solid.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\cirrect_10a_primary_solid.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary_light.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary_light.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_primarydark_indicator_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_primarydark_indicator_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_primary2white_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_primary2white_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_primary_stroke.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_primary_stroke.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_gray_stroke.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_gray_stroke.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cirrect_primary_stroke.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\cirrect_primary_stroke.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cirrect_5a_primary_solid.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\cirrect_5a_primary_solid.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_primary2dark_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_primary2dark_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_top_line.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_top_line.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_primary_stroke2solid_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_primary_stroke2solid_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_top_line.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_top_line.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary2dark_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary2dark_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_oval_red_solid.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_oval_red_solid.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary2dark_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary2dark_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary_stroke.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary_stroke.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\correct_primary.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\correct_primary.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_bottom_line.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_bottom_line.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\cirrect_10a_primary_solid.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\bundles\\debug\\res\\drawable\\cirrect_10a_primary_solid.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    }
+]

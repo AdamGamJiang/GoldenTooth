@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res"/><source path="E:\MyDemo\GoldenTooth\bdcodehelper\build\generated\res\rs\release"/><source path="E:\MyDemo\GoldenTooth\bdcodehelper\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="E:\MyDemo\GoldenTooth\bdcodehelper\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res"><file name="dd_mask_in" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\anim\dd_mask_in.xml" qualifiers="" type="anim"/><file name="dd_mask_out" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\anim\dd_mask_out.xml" qualifiers="" type="anim"/><file name="dd_menu_in" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\anim\dd_menu_in.xml" qualifiers="" type="anim"/><file name="dd_menu_out" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\anim\dd_menu_out.xml" qualifiers="" type="anim"/><file name="txt_blue2gray_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\color\txt_blue2gray_sel.xml" qualifiers="" type="color"/><file name="txt_gray2primarydark_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\color\txt_gray2primarydark_sel.xml" qualifiers="" type="color"/><file name="txt_lgray2white_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\color\txt_lgray2white_sel.xml" qualifiers="" type="color"/><file name="txt_primary2white_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\color\txt_primary2white_sel.xml" qualifiers="" type="color"/><file name="txt_white2gray_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\color\txt_white2gray_sel.xml" qualifiers="" type="color"/><file name="bg_gray2dark_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\bg_gray2dark_sel.xml" qualifiers="" type="drawable"/><file name="bg_primary2dark_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\bg_primary2dark_sel.xml" qualifiers="" type="drawable"/><file name="bg_primarydark_indicator_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\bg_primarydark_indicator_sel.xml" qualifiers="" type="drawable"/><file name="bg_tran2gray_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\bg_tran2gray_sel.xml" qualifiers="" type="drawable"/><file name="bg_white2gray_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\bg_white2gray_sel.xml" qualifiers="" type="drawable"/><file name="cirrect_10a_primary_solid" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\cirrect_10a_primary_solid.xml" qualifiers="" type="drawable"/><file name="cirrect_5a_primary_solid" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\cirrect_5a_primary_solid.xml" qualifiers="" type="drawable"/><file name="cirrect_primary_stroke" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\cirrect_primary_stroke.xml" qualifiers="" type="drawable"/><file name="correct_gray_stroke" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\correct_gray_stroke.xml" qualifiers="" type="drawable"/><file name="correct_primary" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\correct_primary.xml" qualifiers="" type="drawable"/><file name="correct_primary2dark_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\correct_primary2dark_sel.xml" qualifiers="" type="drawable"/><file name="correct_primary_dark" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\correct_primary_dark.xml" qualifiers="" type="drawable"/><file name="correct_primary_light" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\correct_primary_light.xml" qualifiers="" type="drawable"/><file name="correct_primary_stroke" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\correct_primary_stroke.xml" qualifiers="" type="drawable"/><file name="correct_primary_stroke2solid_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\correct_primary_stroke2solid_sel.xml" qualifiers="" type="drawable"/><file name="layerlist_primarydark_indicator" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\layerlist_primarydark_indicator.xml" qualifiers="" type="drawable"/><file name="oval_primary_light_solid" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\oval_primary_light_solid.xml" qualifiers="" type="drawable"/><file name="oval_primary_solid" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\oval_primary_solid.xml" qualifiers="" type="drawable"/><file name="shape_bottom_line" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\shape_bottom_line.xml" qualifiers="" type="drawable"/><file name="shape_oval_primary2white_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\shape_oval_primary2white_sel.xml" qualifiers="" type="drawable"/><file name="shape_oval_primary_stroke" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\shape_oval_primary_stroke.xml" qualifiers="" type="drawable"/><file name="shape_oval_primary_stroke2solid_sel" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\shape_oval_primary_stroke2solid_sel.xml" qualifiers="" type="drawable"/><file name="shape_oval_red_solid" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\shape_oval_red_solid.xml" qualifiers="" type="drawable"/><file name="shape_oval_white_solid" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\shape_oval_white_solid.xml" qualifiers="" type="drawable"/><file name="shape_top_line" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\shape_top_line.xml" qualifiers="" type="drawable"/><file name="wheel_bg" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\wheel_bg.xml" qualifiers="" type="drawable"/><file name="wheel_val" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\drawable\wheel_val.xml" qualifiers="" type="drawable"/><file name="activity_image_browser" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\activity_image_browser.xml" qualifiers="" type="layout"/><file name="activity_web_view" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\activity_web_view.xml" qualifiers="" type="layout"/><file name="footer_progress" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\footer_progress.xml" qualifiers="" type="layout"/><file name="formitem_input" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\formitem_input.xml" qualifiers="" type="layout"/><file name="formitem_select" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\formitem_select.xml" qualifiers="" type="layout"/><file name="include_banner_with_indicator" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\include_banner_with_indicator.xml" qualifiers="" type="layout"/><file name="include_ddm_listview" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\include_ddm_listview.xml" qualifiers="" type="layout"/><file name="include_group_divider" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\include_group_divider.xml" qualifiers="" type="layout"/><file name="include_refresh_list" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\include_refresh_list.xml" qualifiers="" type="layout"/><file name="include_titlebar" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\include_titlebar.xml" qualifiers="" type="layout"/><file name="item_default_drop_down" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\item_default_drop_down.xml" qualifiers="" type="layout"/><file name="item_image_banner" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\item_image_banner.xml" qualifiers="" type="layout"/><file name="item_image_browser" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\item_image_browser.xml" qualifiers="" type="layout"/><file name="item_setting" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\item_setting.xml" qualifiers="" type="layout"/><file name="listview_dropdown_menu" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\listview_dropdown_menu.xml" qualifiers="" type="layout"/><file name="wheel_dialog_address" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\layout\wheel_dialog_address.xml" qualifiers="" type="layout"/><file name="drop_down_checked" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\mipmap-hdpi\drop_down_checked.png" qualifiers="hdpi-v4" type="mipmap"/><file name="drop_down_selected_icon" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\mipmap-hdpi\drop_down_selected_icon.png" qualifiers="hdpi-v4" type="mipmap"/><file name="drop_down_unselected_icon" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\mipmap-hdpi\drop_down_unselected_icon.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_back" path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\mipmap-hdpi\ic_back.png" qualifiers="hdpi-v4" type="mipmap"/><file path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="BottomTabRadioButton">
+        <attr format="enum" name="hint_mode">
+            <enum name="none" value="0"/>
+            <enum name="point" value="1"/>
+            <enum name="num" value="2"/>
+        </attr>
+        <attr format="color" name="hint_color"/>
+        <attr format="dimension" name="hint_toppadding"/>
+        <attr format="dimension" name="hint_rightpadding"/>
+        <attr format="dimension" name="point_radius"/>
+        <attr format="integer" name="num"/>
+        <attr format="dimension" name="num_radius"/>
+        <attr format="dimension" name="num_size"/>
+        <attr format="color" name="num_color"/>
+    </declare-styleable><declare-styleable name="DrawableTextView">
+        <attr format="dimension" name="drawableWidth"/>
+        <attr format="dimension" name="drawableHeight"/>
+    </declare-styleable><declare-styleable name="DropDownMenu">
+        <attr format="color" name="ddunderlineColor"/>
+        <attr format="color" name="dddividerColor"/>
+        <attr format="color" name="ddtextSelectedColor"/>
+        <attr format="color" name="ddtextUnselectedColor"/>
+        <attr format="color" name="ddmenuBackgroundColor"/>
+        <attr format="color" name="ddmaskColor"/>
+        <attr format="dimension" name="ddmenuTextSize"/>
+        <attr format="reference" name="ddmenuSelectedIcon"/>
+        <attr format="reference" name="ddmenuUnselectedIcon"/>
+    </declare-styleable></file><file path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\values\colors.xml" qualifiers=""><color name="drop_down_unselected">#808080</color><color name="mask_color">#88888888</color><color name="province_line_border">#C7C7C7</color><color name="bg_gray_pressed">#e8e8e8</color><color name="bg_position_bar_up">#0D8BC34A</color><color name="check_bg">#f1f1f1</color><color name="colorSecondaryDark">#d88200</color><color name="drop_down_selected">#8BC34A</color><color name="colorPrimaryDark">#76A63E</color><color name="txt_link_blue">#1ea5ff</color><color name="colorPrimaryLight">#E8F3BD</color><color name="brown">#d54c1c</color><color name="bg_gray">#f1f1f1</color><color name="bg_position_bar_down">#1A8BC34A</color><color name="txt_gray">#808080</color><color name="divider_gray">#cbcbcb</color><color name="colorPrimary">#8BC34A</color><color name="gray">#cccccc</color><color name="un_press_color">#8BC34A</color><color name="colorSecondary">#ff9900</color><color name="colorAccent">#FF4081</color><color name="txt_light_gray">#CCCCCC</color><color name="txt_black">#212121</color><color name="white">#ffffff</color></file><file path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\values\dimens.xml" qualifiers=""><dimen name="txtsize_subhead">16sp</dimen><dimen name="txtsize_caption">12sp</dimen><dimen name="txtsize_title">20sp</dimen><dimen name="banner_height">136dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="margin_huge">64dp</dimen><dimen name="txtsize_display1">34sp</dimen><dimen name="txtsize_headline">24sp</dimen><dimen name="margin_medium">16dp</dimen><dimen name="margin_only_txt">48dp</dimen><dimen name="margin_small">8dp</dimen><dimen name="margin_tiny">4dp</dimen><dimen name="txtsize_body">14sp</dimen><dimen name="margin_large">32dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="corner_radius">2dp</dimen></file><file path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\values\strings.xml" qualifiers=""><string name="dialog_positive">确定</string><string name="dialog_negative">取消</string></file><file path="E:\MyDemo\GoldenTooth\bdcodehelper\src\main\res\values\styles.xml" qualifiers=""><style name="GridViewImages" parent="AbsListViewCommon">
+        <item name="android:horizontalSpacing">4dp</item>
+        <item name="android:verticalSpacing">4dp</item>
+    </style><style name="TextViewSubhead" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/txt_black</item>
+    </style><style name="TextViewTitle" parent="TextAppearance.AppCompat.Title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/txt_black</item>
+    </style><style name="EditTextSingleLine" parent="@style/Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textColorHint">@color/txt_light_gray</item>
+        <item name="android:textColor">@color/txt_black</item>
+        <item name="android:textSize">@dimen/txtsize_subhead</item>
+        <item name="android:singleLine">true</item>
+    </style><style name="TextViewCaption" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/txt_light_gray</item>
+    </style><style name="RadioButtonBottomTab">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:button">@null</item>
+        <item name="android:background">@drawable/bg_white2gray_sel</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingBottom">@dimen/margin_small</item>
+        <item name="android:paddingTop">@dimen/margin_small</item>
+    </style><style name="TextViewHeadline" parent="TextAppearance.AppCompat.Headline">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/txt_black</item>
+    </style><style name="custom_dialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+    </style><style name="TextViewBody" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/txt_black</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="android:windowBackground">@color/bg_gray</item>
+    </style><style name="ButtonPrimary" parent="TextViewSubhead">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/txt_white2gray_sel</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/correct_primary2dark_sel</item>
+    </style><style name="ListViewLineDivider" parent="AbsListViewCommon">
+        <item name="android:divider">@color/divider_gray</item>
+        <item name="android:dividerHeight">1px</item>
+    </style><style name="AbsListViewCommon" parent="Widget.AppCompat.ListView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0dp</item>
+        <item name="android:scrollbars">none</item>
+    </style><style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style></file></source><source path="E:\MyDemo\GoldenTooth\bdcodehelper\build\generated\res\rs\release"/><source path="E:\MyDemo\GoldenTooth\bdcodehelper\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="E:\MyDemo\GoldenTooth\bdcodehelper\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="DrawableTextView"><attr format="dimension" name="drawableWidth"/><attr format="dimension" name="drawableHeight"/></declare-styleable><declare-styleable name="DropDownMenu"><attr format="color" name="ddunderlineColor"/><attr format="color" name="dddividerColor"/><attr format="color" name="ddtextSelectedColor"/><attr format="color" name="ddtextUnselectedColor"/><attr format="color" name="ddmenuBackgroundColor"/><attr format="color" name="ddmaskColor"/><attr format="dimension" name="ddmenuTextSize"/><attr format="reference" name="ddmenuSelectedIcon"/><attr format="reference" name="ddmenuUnselectedIcon"/></declare-styleable><declare-styleable name="BottomTabRadioButton"><attr format="enum" name="hint_mode"><enum name="none" value="0"/><enum name="point" value="1"/><enum name="num" value="2"/></attr><attr format="color" name="hint_color"/><attr format="dimension" name="hint_toppadding"/><attr format="dimension" name="hint_rightpadding"/><attr format="dimension" name="point_radius"/><attr format="integer" name="num"/><attr format="dimension" name="num_radius"/><attr format="dimension" name="num_size"/><attr format="color" name="num_color"/></declare-styleable></configuration></mergedItems></merger>

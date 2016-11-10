@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_white2gray_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\src\\main\\res\\color\\txt_white2gray_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_lgray2white_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\src\\main\\res\\color\\txt_lgray2white_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_primary2white_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\src\\main\\res\\color\\txt_primary2white_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_lgray2white_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\src\\main\\res\\color\\txt_lgray2white_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_white2gray_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\src\\main\\res\\color\\txt_white2gray_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_blue2gray_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\src\\main\\res\\color\\txt_blue2gray_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_primary2white_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\src\\main\\res\\color\\txt_primary2white_sel.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_gray2primarydark_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\src\\main\\res\\color\\txt_gray2primarydark_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_blue2gray_sel.xml",
+        "source": "E:\\MyDemo\\GoldenTooth\\bdcodehelper\\src\\main\\res\\color\\txt_blue2gray_sel.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\build\\intermediates\\res\\merged\\release\\color\\txt_gray2primarydark_sel.xml",
+        "source": "E:\\git_demo\\DesignResCollection_MVP\\bdcodehelper\\src\\main\\res\\color\\txt_gray2primarydark_sel.xml"
+    }
+]
